@@ -1,4 +1,0 @@
-Taking note of what it being learnt after Section 2:
-// Make sure to Type Declare when it comes to mapping since its a Map<.., ..>
-// List can contain multiple types
-// ... operator can be used to assign the value of a list to individual values of a widget
